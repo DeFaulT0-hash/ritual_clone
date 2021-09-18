@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2279157.chunk.css",
+    "main.js": "/static/js/main.28b430b8.chunk.js",
+    "main.js.map": "/static/js/main.28b430b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46495ed6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46495ed6.js.map",
+    "static/js/2.5ef43e3a.chunk.js": "/static/js/2.5ef43e3a.chunk.js",
+    "static/js/2.5ef43e3a.chunk.js.map": "/static/js/2.5ef43e3a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b2279157.chunk.css.map": "/static/css/main.b2279157.chunk.css.map",
+    "static/js/2.5ef43e3a.chunk.js.LICENSE.txt": "/static/js/2.5ef43e3a.chunk.js.LICENSE.txt",
+    "static/media/250481-prenatal-vitamins-ritual.9d1b3053.webp": "/static/media/250481-prenatal-vitamins-ritual.9d1b3053.webp",
+    "static/media/Category-Bundles.e8ac3c5b.jpg": "/static/media/Category-Bundles.e8ac3c5b.jpg",
+    "static/media/Category-Multivitamin.724b36a4.jpg": "/static/media/Category-Multivitamin.724b36a4.jpg",
+    "static/media/Category-Pregnancy__1_.96fb6be6.jpg": "/static/media/Category-Pregnancy__1_.96fb6be6.jpg",
+    "static/media/Category-Protein__1_.039a61ea.jpg": "/static/media/Category-Protein__1_.039a61ea.jpg",
+    "static/media/Home-Hero-Desktop.bafbebea.jpg": "/static/media/Home-Hero-Desktop.bafbebea.jpg",
+    "static/media/pngfind.com-tracking-png-6925153.959b625a.png": "/static/media/pngfind.com-tracking-png-6925153.959b625a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46495ed6.js",
+    "static/js/2.5ef43e3a.chunk.js",
+    "static/css/main.b2279157.chunk.css",
+    "static/js/main.28b430b8.chunk.js"
+  ]
+}
